@@ -3,7 +3,7 @@
 ## Trouvailles
 | # | Information | Source (page / fichier) | Méthode (outil, commande) | Fuite volontaire ? |
 |---|---|---|---|---|
-| 1 | | | | |
+| 1 | <img width="486" height="140" alt="image" src="https://github.com/user-attachments/assets/9f668a76-f8da-4b73-98dc-5dc6d68f6fd0" /> | http://localhost:8080/equipe.html |recherche simple|oui|
 ## Flags
 | # | Flag | Où | Comment |
 |---|---|---|---|
