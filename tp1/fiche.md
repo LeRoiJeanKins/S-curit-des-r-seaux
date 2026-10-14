@@ -4,6 +4,7 @@
 | # | Information | Source (page / fichier) | Méthode (outil, commande) | Fuite volontaire ? |
 |---|---|---|---|---|
 | 1 | <img width="486" height="140" alt="image" src="https://github.com/user-attachments/assets/9f668a76-f8da-4b73-98dc-5dc6d68f6fd0" /> | http://localhost:8080/equipe.html |recherche simple|oui|
+| 2 | Factures fournisseurs : service comptabilite (Nadia Peeters) - factures@acme-be.example. Paiements traites chaque vendredi.| http://localhost:8080/contact.html | recherche sur le site | oui |
 ## Flags
 | # | Flag | Où | Comment |
 |---|---|---|---|
