@@ -16,9 +16,9 @@
 | Question du fraudeur  | Votre réponse | Source | 
 |---|---|---|
 |Qui dois-je convaincre de faire un virement ? | service comptabilite (Nadia Peeters) | contact de l acme |
-|Au nom de qui vais-je écrire ? | | |
-|Quelle adresse e-mail vais-je imiter ? (déduite, pas publiée) | | |
-|Quand frapper ?| | |
+|Au nom de qui vais-je écrire ? | Jean Lefevre (CEO) | http://localhost:8080/equipe.html |
+|Quelle adresse e-mail vais-je imiter ? (déduite, pas publiée) | j.lefevre@acme-be.example | deduit |
+|Quand frapper ?| 17 au 20 novembre | http://localhost:8080/blog.html |
 | Quels détails internes rendront mon message crédible ? (au moins 2)| | |
 | Par quel portail l'employé se connecte-t-il ? | | |
 | Question : quel est le maillon de cette chaîne qu'ACME pourrait casser le plus facilement ? | | |
