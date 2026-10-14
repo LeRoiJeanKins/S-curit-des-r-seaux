@@ -12,8 +12,17 @@
 | 3 | <img width="477" height="61" alt="image" src="https://github.com/user-attachments/assets/2845014e-d8cb-4d56-8e93-805a7b1d903c" /> | siege.pnj mediatheque | exiftool sur la photo du bureau |
 
 ## Le kit du fraudeur
-(qui viser, au nom de qui, quelle adresse, quand, quels détails, quel portail — chaque
-ligne sourcée)
+| Question du fraudeur  | Votre réponse | Source | 
+|---|---|---|
+|Qui dois-je convaincre de faire un virement ? | | |
+|Au nom de qui vais-je écrire ? | | |
+|Quelle adresse e-mail vais-je imiter ? (déduite, pas publiée) | | |
+|Quand frapper ?| | |
+| Quels détails internes rendront mon message crédible ? (au moins 2)| | |
+| Par quel portail l'employé se connecte-t-il ? | | |
+| Question : quel est le maillon de cette chaîne qu'ACME pourrait casser le plus facilement ? | | |
+
+
 ## Le phishing kit (mission 6)
 (ce qui trahissait le faux portail ; pourquoi le MFA et le gestionnaire de mots de
 passe protègent)
